@@ -1,6 +1,11 @@
+## 0.3.1
+
+- Specify new imports in README ([#8](https://github.com/dvd-bnc/animated_vector/pull/8))
+- Relax version constraints of some dependencies ([#9](https://github.com/dvd-bnc/animated_vector/pull/9))
+
 ## 0.3.0
 
-- Update dependencies and apply lints [#7](https://github.com/dvd-bnc/animated_vector/pull/7)
+- Update dependencies and apply lints ([#7](https://github.com/dvd-bnc/animated_vector/pull/7))
 
 ## 0.2.3
 
